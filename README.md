@@ -1,2 +1,1 @@
-practicing java (dsa) problems
-all types
+java basics core and advance codes here
